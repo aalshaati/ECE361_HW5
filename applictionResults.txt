@@ -1,0 +1,744 @@
+Last login: Mon Dec  2 20:33:13 on ttys001
+/Users/abdulla/Desktop/HW5/application ; exit;                                  
+(base) abdulla@Abdullas-MacBook-Pro ~ % /Users/abdulla/Desktop/HW5/application ; exit;
+Populating the Temperature/Humidity BST using I/O module data...
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+Enter the starting month (1 to 12), day (1 to 31), and number of days (1 to 100): 7,31,100
+User requested 100 data items starting at 7/31/2023
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1690833600 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1690920000 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1691006400 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1691092800 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1691179200 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1691265600 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1691352000 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1691438400 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1691524800 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1691611200 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1691697600 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1691784000 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1691870400 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1691956800 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1692043200 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1692129600 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1692216000 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1692302400 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1692388800 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1692475200 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1692561600 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1692648000 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1692734400 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1692820800 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1692907200 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1692993600 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1693080000 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1693166400 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1693252800 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1693339200 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1693425600 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1693512000 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1693598400 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1693684800 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1693771200 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1693857600 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1693944000 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1694030400 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1694116800 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1694203200 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1694289600 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1694376000 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1694462400 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1694548800 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1694635200 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1694721600 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1694808000 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1694894400 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1694980800 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1695067200 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1695153600 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1695240000 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1695326400 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1695412800 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1695499200 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1695585600 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1695672000 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1695758400 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1695844800 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1695931200 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1696017600 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1696104000 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1696190400 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1696276800 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1696363200 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1696449600 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1696536000 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1696622400 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1696708800 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1696795200 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1696881600 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1696968000 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1697054400 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1697140800 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1697227200 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1697313600 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1697400000 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1697486400 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1697572800 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1697659200 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1697745600 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1697832000 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1697918400 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1698004800 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1698091200 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1698177600 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1698264000 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1698350400 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1698436800 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1698523200 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1698609600 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1698696000 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1698782400 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1698868800 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1698955200 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1699041600 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1699128000 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1699214400 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1699300800 to BST
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+  ____  ____  ____  ____
+RedDC= 0% (  0), GrnDC= 0% (  0), BluDC= 0% (  0)	Enable=OFF
+INFO(main()): added timestamp 1699387200 to BST
+
+Performing in-order traversal of the tree:
+Timestamp: 1690833600, Temp: 385351, Humid: 786432
+Timestamp: 1690920000, Temp: 385351, Humid: 786432
+Timestamp: 1691006400, Temp: 385351, Humid: 786432
+Timestamp: 1691092800, Temp: 385351, Humid: 786432
+Timestamp: 1691179200, Temp: 385351, Humid: 786432
+Timestamp: 1691265600, Temp: 385351, Humid: 786432
+Timestamp: 1691352000, Temp: 385351, Humid: 786432
+Timestamp: 1691438400, Temp: 385351, Humid: 786432
+Timestamp: 1691524800, Temp: 385351, Humid: 786432
+Timestamp: 1691611200, Temp: 385351, Humid: 786432
+Timestamp: 1691697600, Temp: 385351, Humid: 786432
+Timestamp: 1691784000, Temp: 385351, Humid: 786432
+Timestamp: 1691870400, Temp: 385351, Humid: 786432
+Timestamp: 1691956800, Temp: 385351, Humid: 786432
+Timestamp: 1692043200, Temp: 385351, Humid: 786432
+Timestamp: 1692129600, Temp: 385351, Humid: 786432
+Timestamp: 1692216000, Temp: 385351, Humid: 786432
+Timestamp: 1692302400, Temp: 385351, Humid: 786432
+Timestamp: 1692388800, Temp: 385351, Humid: 786432
+Timestamp: 1692475200, Temp: 385351, Humid: 786432
+Timestamp: 1692561600, Temp: 385351, Humid: 786432
+Timestamp: 1692648000, Temp: 385351, Humid: 786432
+Timestamp: 1692734400, Temp: 385351, Humid: 786432
+Timestamp: 1692820800, Temp: 385351, Humid: 786432
+Timestamp: 1692907200, Temp: 385351, Humid: 786432
+Timestamp: 1692993600, Temp: 385351, Humid: 786432
+Timestamp: 1693080000, Temp: 385351, Humid: 786432
+Timestamp: 1693166400, Temp: 385351, Humid: 786432
+Timestamp: 1693252800, Temp: 385351, Humid: 786432
+Timestamp: 1693339200, Temp: 385351, Humid: 786432
+Timestamp: 1693425600, Temp: 385351, Humid: 786432
+Timestamp: 1693512000, Temp: 385351, Humid: 786432
+Timestamp: 1693598400, Temp: 385351, Humid: 786432
+Timestamp: 1693684800, Temp: 385351, Humid: 786432
+Timestamp: 1693771200, Temp: 385351, Humid: 786432
+Timestamp: 1693857600, Temp: 385351, Humid: 786432
+Timestamp: 1693944000, Temp: 385351, Humid: 786432
+Timestamp: 1694030400, Temp: 385351, Humid: 786432
+Timestamp: 1694116800, Temp: 385351, Humid: 786432
+Timestamp: 1694203200, Temp: 385351, Humid: 786432
+Timestamp: 1694289600, Temp: 385351, Humid: 786432
+Timestamp: 1694376000, Temp: 385351, Humid: 786432
+Timestamp: 1694462400, Temp: 385351, Humid: 786432
+Timestamp: 1694548800, Temp: 385351, Humid: 786432
+Timestamp: 1694635200, Temp: 385351, Humid: 786432
+Timestamp: 1694721600, Temp: 385351, Humid: 786432
+Timestamp: 1694808000, Temp: 385351, Humid: 786432
+Timestamp: 1694894400, Temp: 385351, Humid: 786432
+Timestamp: 1694980800, Temp: 385351, Humid: 786432
+Timestamp: 1695067200, Temp: 385351, Humid: 786432
+Timestamp: 1695153600, Temp: 385351, Humid: 786432
+Timestamp: 1695240000, Temp: 385351, Humid: 786432
+Timestamp: 1695326400, Temp: 385351, Humid: 786432
+Timestamp: 1695412800, Temp: 385351, Humid: 786432
+Timestamp: 1695499200, Temp: 385351, Humid: 786432
+Timestamp: 1695585600, Temp: 385351, Humid: 786432
+Timestamp: 1695672000, Temp: 385351, Humid: 786432
+Timestamp: 1695758400, Temp: 385351, Humid: 786432
+Timestamp: 1695844800, Temp: 385351, Humid: 786432
+Timestamp: 1695931200, Temp: 385351, Humid: 786432
+Timestamp: 1696017600, Temp: 385351, Humid: 786432
+Timestamp: 1696104000, Temp: 385351, Humid: 786432
+Timestamp: 1696190400, Temp: 385351, Humid: 786432
+Timestamp: 1696276800, Temp: 385351, Humid: 786432
+Timestamp: 1696363200, Temp: 385351, Humid: 786432
+Timestamp: 1696449600, Temp: 385351, Humid: 786432
+Timestamp: 1696536000, Temp: 385351, Humid: 786432
+Timestamp: 1696622400, Temp: 385351, Humid: 786432
+Timestamp: 1696708800, Temp: 385351, Humid: 786432
+Timestamp: 1696795200, Temp: 385351, Humid: 786432
+Timestamp: 1696881600, Temp: 385351, Humid: 786432
+Timestamp: 1696968000, Temp: 385351, Humid: 786432
+Timestamp: 1697054400, Temp: 385351, Humid: 786432
+Timestamp: 1697140800, Temp: 385351, Humid: 786432
+Timestamp: 1697227200, Temp: 385351, Humid: 786432
+Timestamp: 1697313600, Temp: 385351, Humid: 786432
+Timestamp: 1697400000, Temp: 385351, Humid: 786432
+Timestamp: 1697486400, Temp: 385351, Humid: 786432
+Timestamp: 1697572800, Temp: 385351, Humid: 786432
+Timestamp: 1697659200, Temp: 385351, Humid: 786432
+Timestamp: 1697745600, Temp: 385351, Humid: 786432
+Timestamp: 1697832000, Temp: 385351, Humid: 786432
+Timestamp: 1697918400, Temp: 385351, Humid: 786432
+Timestamp: 1698004800, Temp: 385351, Humid: 786432
+Timestamp: 1698091200, Temp: 385351, Humid: 786432
+Timestamp: 1698177600, Temp: 385351, Humid: 786432
+Timestamp: 1698264000, Temp: 385351, Humid: 786432
+Timestamp: 1698350400, Temp: 385351, Humid: 786432
+Timestamp: 1698436800, Temp: 385351, Humid: 786432
+Timestamp: 1698523200, Temp: 385351, Humid: 786432
+Timestamp: 1698609600, Temp: 385351, Humid: 786432
+Timestamp: 1698696000, Temp: 385351, Humid: 786432
+Timestamp: 1698782400, Temp: 385351, Humid: 786432
+Timestamp: 1698868800, Temp: 385351, Humid: 786432
+Timestamp: 1698955200, Temp: 385351, Humid: 786432
+Timestamp: 1699041600, Temp: 385351, Humid: 786432
+Timestamp: 1699128000, Temp: 385351, Humid: 786432
+Timestamp: 1699214400, Temp: 385351, Humid: 786432
+Timestamp: 1699300800, Temp: 385351, Humid: 786432
+Timestamp: 1699387200, Temp: 385351, Humid: 786432
+
+Enter a search date (mm/dd/yyyy): 8/15/23
+ERROR(main): Invalid date entered
+
+Enter a search date (mm/dd/yyyy): 8/15/2023
+Did not find data for Timestamp 15-08-2023
+
+Enter a search date (mm/dd/yyyy): 10/31/2023
+Found data for Timestamp 31-10-2023
+31-10-2023	23.5F(0005E147) 75.0%(000C0000)
+
+Enter a search date (mm/dd/yyyy): 11/1/2023
+Found data for Timestamp 01-11-2023
+01-11-2023	23.5F(0005E147) 75.0%(000C0000)
+
+Enter a search date (mm/dd/yyyy): 2/30/2030
+Did not find data for Timestamp 02-03-2030
+
+Enter a search date (mm/dd/yyyy): 12/31/2023
+Did not find data for Timestamp 31-12-2023
+
+Enter a search date (mm/dd/yyyy): 1/12024
+
+INFO(main): End search for data items in BST
+
+Temperature/Humidity table:
+---------------------------
+Timestamp: 1690833600, Temp: 385351, Humid: 786432
+Timestamp: 1690920000, Temp: 385351, Humid: 786432
+Timestamp: 1691006400, Temp: 385351, Humid: 786432
+Timestamp: 1691092800, Temp: 385351, Humid: 786432
+Timestamp: 1691179200, Temp: 385351, Humid: 786432
+Timestamp: 1691265600, Temp: 385351, Humid: 786432
+Timestamp: 1691352000, Temp: 385351, Humid: 786432
+Timestamp: 1691438400, Temp: 385351, Humid: 786432
+Timestamp: 1691524800, Temp: 385351, Humid: 786432
+Timestamp: 1691611200, Temp: 385351, Humid: 786432
+Timestamp: 1691697600, Temp: 385351, Humid: 786432
+Timestamp: 1691784000, Temp: 385351, Humid: 786432
+Timestamp: 1691870400, Temp: 385351, Humid: 786432
+Timestamp: 1691956800, Temp: 385351, Humid: 786432
+Timestamp: 1692043200, Temp: 385351, Humid: 786432
+Timestamp: 1692129600, Temp: 385351, Humid: 786432
+Timestamp: 1692216000, Temp: 385351, Humid: 786432
+Timestamp: 1692302400, Temp: 385351, Humid: 786432
+Timestamp: 1692388800, Temp: 385351, Humid: 786432
+Timestamp: 1692475200, Temp: 385351, Humid: 786432
+Timestamp: 1692561600, Temp: 385351, Humid: 786432
+Timestamp: 1692648000, Temp: 385351, Humid: 786432
+Timestamp: 1692734400, Temp: 385351, Humid: 786432
+Timestamp: 1692820800, Temp: 385351, Humid: 786432
+Timestamp: 1692907200, Temp: 385351, Humid: 786432
+Timestamp: 1692993600, Temp: 385351, Humid: 786432
+Timestamp: 1693080000, Temp: 385351, Humid: 786432
+Timestamp: 1693166400, Temp: 385351, Humid: 786432
+Timestamp: 1693252800, Temp: 385351, Humid: 786432
+Timestamp: 1693339200, Temp: 385351, Humid: 786432
+Timestamp: 1693425600, Temp: 385351, Humid: 786432
+Timestamp: 1693512000, Temp: 385351, Humid: 786432
+Timestamp: 1693598400, Temp: 385351, Humid: 786432
+Timestamp: 1693684800, Temp: 385351, Humid: 786432
+Timestamp: 1693771200, Temp: 385351, Humid: 786432
+Timestamp: 1693857600, Temp: 385351, Humid: 786432
+Timestamp: 1693944000, Temp: 385351, Humid: 786432
+Timestamp: 1694030400, Temp: 385351, Humid: 786432
+Timestamp: 1694116800, Temp: 385351, Humid: 786432
+Timestamp: 1694203200, Temp: 385351, Humid: 786432
+Timestamp: 1694289600, Temp: 385351, Humid: 786432
+Timestamp: 1694376000, Temp: 385351, Humid: 786432
+Timestamp: 1694462400, Temp: 385351, Humid: 786432
+Timestamp: 1694548800, Temp: 385351, Humid: 786432
+Timestamp: 1694635200, Temp: 385351, Humid: 786432
+Timestamp: 1694721600, Temp: 385351, Humid: 786432
+Timestamp: 1694808000, Temp: 385351, Humid: 786432
+Timestamp: 1694894400, Temp: 385351, Humid: 786432
+Timestamp: 1694980800, Temp: 385351, Humid: 786432
+Timestamp: 1695067200, Temp: 385351, Humid: 786432
+Timestamp: 1695153600, Temp: 385351, Humid: 786432
+Timestamp: 1695240000, Temp: 385351, Humid: 786432
+Timestamp: 1695326400, Temp: 385351, Humid: 786432
+Timestamp: 1695412800, Temp: 385351, Humid: 786432
+Timestamp: 1695499200, Temp: 385351, Humid: 786432
+Timestamp: 1695585600, Temp: 385351, Humid: 786432
+Timestamp: 1695672000, Temp: 385351, Humid: 786432
+Timestamp: 1695758400, Temp: 385351, Humid: 786432
+Timestamp: 1695844800, Temp: 385351, Humid: 786432
+Timestamp: 1695931200, Temp: 385351, Humid: 786432
+Timestamp: 1696017600, Temp: 385351, Humid: 786432
+Timestamp: 1696104000, Temp: 385351, Humid: 786432
+Timestamp: 1696190400, Temp: 385351, Humid: 786432
+Timestamp: 1696276800, Temp: 385351, Humid: 786432
+Timestamp: 1696363200, Temp: 385351, Humid: 786432
+Timestamp: 1696449600, Temp: 385351, Humid: 786432
+Timestamp: 1696536000, Temp: 385351, Humid: 786432
+Timestamp: 1696622400, Temp: 385351, Humid: 786432
+Timestamp: 1696708800, Temp: 385351, Humid: 786432
+Timestamp: 1696795200, Temp: 385351, Humid: 786432
+Timestamp: 1696881600, Temp: 385351, Humid: 786432
+Timestamp: 1696968000, Temp: 385351, Humid: 786432
+Timestamp: 1697054400, Temp: 385351, Humid: 786432
+Timestamp: 1697140800, Temp: 385351, Humid: 786432
+Timestamp: 1697227200, Temp: 385351, Humid: 786432
+Timestamp: 1697313600, Temp: 385351, Humid: 786432
+Timestamp: 1697400000, Temp: 385351, Humid: 786432
+Timestamp: 1697486400, Temp: 385351, Humid: 786432
+Timestamp: 1697572800, Temp: 385351, Humid: 786432
+Timestamp: 1697659200, Temp: 385351, Humid: 786432
+Timestamp: 1697745600, Temp: 385351, Humid: 786432
+Timestamp: 1697832000, Temp: 385351, Humid: 786432
+Timestamp: 1697918400, Temp: 385351, Humid: 786432
+Timestamp: 1698004800, Temp: 385351, Humid: 786432
+Timestamp: 1698091200, Temp: 385351, Humid: 786432
+Timestamp: 1698177600, Temp: 385351, Humid: 786432
+Timestamp: 1698264000, Temp: 385351, Humid: 786432
+Timestamp: 1698350400, Temp: 385351, Humid: 786432
+Timestamp: 1698436800, Temp: 385351, Humid: 786432
+Timestamp: 1698523200, Temp: 385351, Humid: 786432
+Timestamp: 1698609600, Temp: 385351, Humid: 786432
+Timestamp: 1698696000, Temp: 385351, Humid: 786432
+Timestamp: 1698782400, Temp: 385351, Humid: 786432
+Timestamp: 1698868800, Temp: 385351, Humid: 786432
+Timestamp: 1698955200, Temp: 385351, Humid: 786432
+Timestamp: 1699041600, Temp: 385351, Humid: 786432
+Timestamp: 1699128000, Temp: 385351, Humid: 786432
+Timestamp: 1699214400, Temp: 385351, Humid: 786432
+Timestamp: 1699300800, Temp: 385351, Humid: 786432
+Timestamp: 1699387200, Temp: 385351, Humid: 786432
+
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+[Process completed]
